@@ -1,10 +1,8 @@
-# Chapter 2 --- Tenant Initialization and Setup {#chapter-2-tenant-initialization-and-setup .unnumbered}
+# Chapter 2 --- Tenant Initialization and Setup
 
 ***Greenfield, brownfield, multi‑geo, and MTO operations***
 
-1.  
-
-## Greenfield Tenant Setup
+## 2.1 Greenfield Tenant Setup
 
 **The initial M365 tenant setup checklist:**
 
@@ -34,7 +32,7 @@
 
 New-MgDomain -Id \"contoso.com\"
 
-## Brownfield Tenants (existing tenants)
+## 2.2 Brownfield Tenants (existing tenants)
 
 **Audit checklist of an existing tenant or multiple tenants**
 
@@ -54,7 +52,7 @@ New-MgDomain -Id \"contoso.com\"
 
 Get-MgIdentityConditionalAccessPolicy
 
-## Tenant‑to‑Tenant Migration Scenarios  {#tenanttotenant-migration-scenarios}
+## 2.3 Tenant‑to‑Tenant Migration Scenarios
 
 **A tenant-to-tenant migration may be needed in case of Geo/Billing center changes. Key Tasks include:**
 
@@ -70,7 +68,7 @@ Get-MgIdentityConditionalAccessPolicy
 
 - Post‑migration cleanup
 
-## Multi‑Geo & Multi-tenant Organization (MTO) {#multigeo-multi-tenant-organization-mto}
+## 2.4 Multi‑Geo & Multi-tenant Organization (MTO)
 
 Review requirements and features at:
 
@@ -82,6 +80,6 @@ Review requirements and features at:
 
 Set-MsolUser -UserPrincipalName user@contoso.com -UsageLocation \"DE\"
 
-## M365 service performance checks
+## 2.5 M365 service performance checks
 
 Use Microsoft Connectivity Test to determine performance: [Microsoft 365 network connectivity test](https://connectivity.office.com/)

@@ -4,7 +4,7 @@
 
 Microsoft 365 administration relies on three primary access methods: **PowerShell**, **APIs**, and **administrative Web-based portals**. A competent administrator must be fluent in all three.
 
-## 11 powershell connectivity
+## 1.1 powershell connectivity
 
 **Microsoft Graph PowerShell examples assume installation of the relevant modules from the Powershell Gallery. The following modules must be installed per-case when needed:**
 
@@ -65,7 +65,7 @@ Connect-IPPSSession -UserPrincipalName \<UPN\> \[-ConnectionUri \<URL\>\] \[-Azu
 **Real‑World Scenario**  
 HR updates 4,000 job titles. PowerShell is the only scalable method to manage them.
 
-## 12 api sdk connectivity
+## 1.2 API SDK connectivity
 
 **Graph API Example (GET user)**
 
@@ -82,7 +82,7 @@ Used for secure automation pipelines and for testing MgGraph APIs. Available at:
 **Scenario**   
 Security team needs automated export of risky sign‑ins → Graph API + Logic App.
 
-## Administrative Portals
+## 1.3 Administrative Web Portals
 
 - Microsoft 365 Admin Center (<https://admin.cloud.microsoft>). This includes links to all other administrative Web portals.
 
@@ -99,7 +99,7 @@ Security team needs automated export of risky sign‑ins → Graph API + Logic A
 **Scenario**  
 Helpdesk operator needs password reset only → assign "Helpdesk Administrator."
 
-## CSP Operations (GDAP + Lighthouse) {#csp-operations-gdap-lighthouse}
+## 1.4 CSP Operations (GDAP + Lighthouse)
 
 **GDAP** provides least‑privilege delegated access for Cloud Service Providers (CSP).  
 **Lighthouse** provides multi‑tenant monitoring. Documentation available at: <https://learn.microsoft.com/en-us/microsoft-365/lighthouse/m365-lighthouse-overview?view=o365-worldwide>.

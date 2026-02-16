@@ -1,4 +1,4 @@
-# Chapter 13 --- End user training and documentation {#chapter-13-end-user-training-and-documentation .unnumbered}
+# Chapter 13 --- End user training and documentation
 
 Provide proactive training to your end users, especially around security topics.
 

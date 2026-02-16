@@ -1,6 +1,6 @@
 # Appendix A --- MS‑102 References and Tools
 
-## MS-102 curriculum links {#ms-102-curriculum-links .unnumbered}
+## MS-102 curriculum links
 
 - Curriculum study: <https://learn.microsoft.com/en-us/training/courses/ms-102t00>
 
@@ -8,7 +8,7 @@
 
 - Exam resources and registration: <https://learn.microsoft.com/en-us/credentials/certifications/exams/ms-102/>
 
-## List of MS tools and trials for MS-102 {#list-of-ms-tools-and-trials-for-ms-102 .unnumbered} 
+## List of MS tools and trials for MS-102
 
 - M365 Admin Portal (admin.cloud.microsoft), individual M365 service portals, Security/Defender portal (security.microsoft.com) and Purview portal (compliance.microsoft.com)
 
@@ -38,7 +38,7 @@
 
 - Purview trial: <https://learn.microsoft.com/en-us/purview/purview-trial> and <https://learn.microsoft.com/en-us/purview/purview-compliance-manager-assessments-trial>
 
-## References to useful planning and troubleshooting tools for M365 {#references-to-useful-planning-and-troubleshooting-tools-for-m365 .unnumbered}
+## References to useful planning and troubleshooting tools for M365
 
 - Audit script Powershell DSC: <https://github.com/Microsoft/Microsoft365DSC>
 
@@ -136,7 +136,7 @@
 
 - <https://m365accelerator.microsoft.com>
 
-## Staying current with M365 {#staying-current-with-m365 .unnumbered}
+## Staying current with M365
 
 - <https://status.cloud.microsoft/>
 

@@ -1,6 +1,6 @@
-# Chapter 8 --- Purview Compliance, Data Classification and Sensitivity Labels {#chapter-8-purview-compliance-data-classification-and-sensitivity-labels .unnumbered}
+# Chapter 8 --- Purview Compliance, Data Classification and Sensitivity Labels
 
-## Data Discovery and Data Lifecycle Management
+## 8.1 Data Discovery and Data Lifecycle Management
 
 Getting started:
 
@@ -18,7 +18,7 @@ Getting started:
 
 Get-Label
 
-## Sensitivity Labels
+## 8.2 Sensitivity Labels
 
 Getting started: [Get started with sensitivity labels \| Microsoft Learn](https://learn.microsoft.com/en-us/purview/get-started-with-sensitivity-labels)
 
@@ -28,13 +28,13 @@ Use Sensitive Information Types (SIT) and Trainable Classifiers for your data: [
 
 Get-LabelPolicy
 
-## Retention policies and archiving policies
+## 8.3 Retention policies and archiving policies
 
 Use Purview modern retention policies, as per: <https://learn.microsoft.com/en-us/purview/create-retention-policies?tabs=teams-retention>
 
 Use legacy MRM policies for archiving policies to Exchange Online archive: [Customize an archive and deletion policy (MRM) for mailboxes \| Microsoft Learn](https://learn.microsoft.com/en-us/purview/set-up-an-archive-and-deletion-policy-for-mailboxes)
 
-## Insider Risk Management & Adaptive Protection {#insider-risk-management-adaptive-protection}
+## 8.4 Insider Risk Management & Adaptive Protection
 
 Getting started: [Get started with Insider Risk Management \| Microsoft Learn](https://learn.microsoft.com/en-us/purview/insider-risk-management-configure)
 
@@ -42,13 +42,13 @@ Getting started: [Get started with Insider Risk Management \| Microsoft Learn](h
 
 Get-MgSecurityUserRisk
 
-## Information Barriers (IB)  {#information-barriers-ib}
+## 8.5 Information Barriers (IB)
 
 Create IB segments and define IB operations mode, as per your requirements.
 
 Getting started: [Get started with Information Barriers \| Microsoft Learn](https://learn.microsoft.com/en-us/purview/information-barriers-policies)
 
-## DLP Policies
+## 8.6 DLP Policies
 
 Getting started: [Get started with endpoint data loss prevention \| Microsoft Learn](https://learn.microsoft.com/en-us/purview/endpoint-dlp-getting-started)
 
@@ -56,6 +56,6 @@ Getting started: [Get started with endpoint data loss prevention \| Microsoft Le
 
 Get-DlpCompliancePolicy
 
-## Purview Compliance Score
+## 8.7 Purview Compliance Score
 
 Manage your Compliance Manager Secure Score as per: <https://learn.microsoft.com/en-us/purview/compliance-manager-scoring>

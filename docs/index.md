@@ -10,7 +10,7 @@ CloudSchool.ai — Documentation Repository
 
 ---
 
-## **Chapter 1 — Foundations of Microsoft 365 Administration**(#chapter1.md)
+## **Chapter 1 — Foundations of Microsoft 365 Administration**(chapter1.md)
 - [1.1 PowerShell Connectivity](chapter1.md#11-powershell-connectivity)
 - [1.2 API / SDK Connectivity](chapter1.md#12-api-sdk-connectivity)
 - [1.3 Administrative Portals](chapter1.md#13-administrative-portals)

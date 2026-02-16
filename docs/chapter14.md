@@ -1,8 +1,8 @@
-# Chapter 14 --- M365 Operational Checklists {#chapter-14-m365-operational-checklists .unnumbered}
+# Chapter 14 --- M365 Operational Checklists
 
 This section provides typical daily, weekly and monthly operational tasks for M365 administrators. The checklists can be expanded based on the needs of each organization.
 
-## Daily Checklist {#daily-checklist .unnumbered}
+## 14.1 Daily Checklist
 
 - Review Defender XDR alerts
 
@@ -26,7 +26,7 @@ Search-UnifiedAuditLog -StartDate (Get-Date).AddHours(-24)
 
 Get-MgRiskyUser
 
-## Weekly Checklist {#weekly-checklist .unnumbered}
+## 14.2 Weekly Checklist
 
 - Review Conditional Access sign‑in patterns
 
@@ -48,7 +48,7 @@ Get-MgUserLicenseDetail
 
 Get-SPOSite
 
-## Monthly Checklist {#monthly-checklist .unnumbered}
+## 14.3 Monthly Checklist
 
 - Access reviews
 

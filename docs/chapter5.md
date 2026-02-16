@@ -1,18 +1,18 @@
 # Chapter 5 --- M365 Apps and Endpoint Management with Intune 
 
-## Enrollment & Compliance {#enrollment-compliance}
+## 5.1 Enrollment & Compliance
 
 **PowerShell Example: List Devices**
 
 Get-MgDevice
 
-## Endpoint Security
+## 5.2 Endpoint Security
 
 **PowerShell Example: List ASR Rules**
 
 Get-MpPreference \| Select-Object AttackSurfaceReductionRules_Ids
 
-## M365 App Policies and MAM policies
+## 5.3 M365 App Policies and MAM policies
 
 Utilize the Microsoft Office Deployment Tool (ODT) and the config.microsoft.com portal for creating and applying policies.
 
