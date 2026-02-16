@@ -33,7 +33,7 @@ CloudSchool.ai — Documentation Repository
 - [3.3 Restricting Group Creation](docs/chapter3.md#33-restricting-group-creation)
 - [3.4 Licensing Strategy](docs/chapter3.md#34-licensing-strategy)
 
----
+--- 
 
 ## **Chapter 4 — Identity Synchronization and Hybrid Identity**
 - [4.1 Choosing Identity Model](docs/chapter4.md#41-choosing-identity-model)
