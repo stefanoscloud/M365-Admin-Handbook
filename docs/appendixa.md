@@ -8,7 +8,7 @@
 
 - Exam resources and registration: <https://learn.microsoft.com/en-us/credentials/certifications/exams/ms-102/>
 
-## List of MS tools and trials for MS-102 {#list-of-ms-tools-and-trials-for-ms-102 .unnumbered}
+## List of MS tools and trials for MS-102 {#list-of-ms-tools-and-trials-for-ms-102 .unnumbered} 
 
 - M365 Admin Portal (admin.cloud.microsoft), individual M365 service portals, Security/Defender portal (security.microsoft.com) and Purview portal (compliance.microsoft.com)
 
