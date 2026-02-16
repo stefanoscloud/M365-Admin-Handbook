@@ -6,7 +6,7 @@ CloudSchool.ai — Documentation Repository
 ## Table of Contents
 
 ### **Introduction**
-- [Introduction](docs/introduction.md)
+- [Introduction](introduction.md)
 
 ---
 
