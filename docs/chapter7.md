@@ -1,4 +1,4 @@
-# Chapter 7 --- Audit Logging, Monitoring, and Alerting {#chapter-7-audit-logging-monitoring-and-alerting .unnumbered}
+# Chapter 7 --- Audit Logging, Monitoring, and Alerting
 
 ## Unified Audit Log
 

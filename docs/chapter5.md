@@ -1,4 +1,4 @@
-# Chapter 5 --- M365 Apps and Endpoint Management with Intune {#chapter-5-m365-apps-and-endpoint-management-with-intune .unnumbered}
+# Chapter 5 --- M365 Apps and Endpoint Management with Intune 
 
 ## Enrollment & Compliance {#enrollment-compliance}
 

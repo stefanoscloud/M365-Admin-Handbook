@@ -1,5 +1,4 @@
-# Chapter 10 --- Proactive Security Monitoring {#chapter-10-proactive-security-monitoring .unnumbered}
-
+# Chapter 10 --- Proactive Security Monitoring
 ## Maester
 
 Used for automated security posture testing. Review at: [Maester](https://maester.dev/).

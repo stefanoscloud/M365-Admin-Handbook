@@ -1,4 +1,4 @@
-# Chapter 9 --- Defender XDR security {#chapter-9-defender-xdr-security .unnumbered}
+# Chapter 9 --- Defender XDR security
 
 Maximize all Defender XDR services under your licensing scheme
 

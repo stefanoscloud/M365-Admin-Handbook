@@ -1,4 +1,4 @@
-# Chapter 4 --- Identity Synchronization and Hybrid Identity {#chapter-4-identity-synchronization-and-hybrid-identity .unnumbered}
+# Chapter 4 --- Identity Synchronization and Hybrid Identity
 
 ## Choosing Identity Model
 

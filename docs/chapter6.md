@@ -1,4 +1,4 @@
-# Chapter 6 --- Privileged Access and Conditional Access (Adaptive Access) {#chapter-6-privileged-access-and-conditional-access-adaptive-access .unnumbered}
+# Chapter 6 --- Privileged Access and Conditional Access (Adaptive Access)
 
 ## Privileged Roles
 

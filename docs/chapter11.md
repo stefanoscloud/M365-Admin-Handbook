@@ -1,4 +1,4 @@
-# Chapter 11 --- Backup and Business Continuity {#chapter-11-backup-and-business-continuity .unnumbered}
+# Chapter 11 --- Backup and Business Continuity
 
 ## Syntex Backup
 

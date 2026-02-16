@@ -1,4 +1,4 @@
-# Appendix A --- MS‑102 References and Tools {#appendix-a-ms102-references-and-tools .unnumbered}
+# Appendix A --- MS‑102 References and Tools
 
 ## MS-102 curriculum links {#ms-102-curriculum-links .unnumbered}
 
