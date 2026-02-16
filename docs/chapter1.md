@@ -4,7 +4,7 @@
 
 Microsoft 365 administration relies on three primary access methods: **PowerShell**, **APIs**, and **administrative Web-based portals**. A competent administrator must be fluent in all three.
 
-## PowerShell Connectivity#11-powershell-connectivity
+## PowerShell Connectivity (#11-powershell-connectivity)
 
 **Microsoft Graph PowerShell examples assume installation of the relevant modules from the Powershell Gallery. The following modules must be installed per-case when needed:**
 
@@ -65,7 +65,7 @@ Connect-IPPSSession -UserPrincipalName \<UPN\> \[-ConnectionUri \<URL\>\] \[-Azu
 **Real‑World Scenario**  
 HR updates 4,000 job titles. PowerShell is the only scalable method to manage them.
 
-## API / SDK Connectivity {#api-sdk-connectivity}
+## API / SDK Connectivity (#12-api--sdk-connectivity)
 
 **Graph API Example (GET user)**
 
