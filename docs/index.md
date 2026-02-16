@@ -116,9 +116,9 @@ CloudSchool.ai — Documentation Repository
 ---
 
 ## **Appendix A — MS-102 References and Tools**
-- [MS-102 Curriculum Links](appendixa.md#ms-102-curriculum-links)
-- [Microsoft Tools & Trials](appendixa.md#list-of-ms-tools-and-trials-for-ms-102)
-- [Planning & Troubleshooting Tools](appendixa.md#references-to-useful-planning-and-troubleshooting-tools-for-m365)
-- [Staying Current with M365](appendixa.md#staying-current-with-m365)
+- [MS-102 Curriculum Links](appendixA.md#ms-102-curriculum-links)
+- [Microsoft Tools & Trials](appendixA.md#list-of-ms-tools-and-trials-for-ms-102)
+- [Planning & Troubleshooting Tools](appendixA.md#references-to-useful-planning-and-troubleshooting-tools-for-m365)
+- [Staying Current with M365](appendixA.md#staying-current-with-m365)
 
 ---

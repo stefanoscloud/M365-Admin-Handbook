@@ -1,10 +1,10 @@
-# Chapter 1 --- Foundations of Microsoft 365 Administration {#chapter-1-foundations-of-microsoft-365-administration .unnumbered}
+# Chapter 1 --- Foundations of Microsoft 365 Administration#chapter1
 
 ***Connecting to Microsoft 365 services and establishing operational access***
 
 Microsoft 365 administration relies on three primary access methods: **PowerShell**, **APIs**, and **administrative Web-based portals**. A competent administrator must be fluent in all three.
 
-## PowerShell Connectivity
+## PowerShell Connectivity#11-powershell-connectivity
 
 **Microsoft Graph PowerShell examples assume installation of the relevant modules from the Powershell Gallery. The following modules must be installed per-case when needed:**
 
