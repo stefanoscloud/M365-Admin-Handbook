@@ -12,3 +12,7 @@ The goal is to provide a practical, scenario‑driven reference that helps admin
 - Troubleshoot issues using structured, reproducible workflows  
 
 This handbook is designed to be used both as a learning resource and as an operational field guide for day‑to‑day administration.
+
+---
+Go back to ToC: 
+https://github.com/stefanoscloud/M365-Admin-Handbook/blob/main/docs/index.md

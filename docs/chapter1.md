@@ -103,3 +103,7 @@ Helpdesk operator needs password reset only → assign "Helpdesk Administrator."
 
 **GDAP** provides least‑privilege delegated access for Cloud Service Providers (CSP).  
 **Lighthouse** provides multi‑tenant monitoring. Documentation available at: <https://learn.microsoft.com/en-us/microsoft-365/lighthouse/m365-lighthouse-overview?view=o365-worldwide>.
+
+---
+Go back to ToC: 
+https://github.com/stefanoscloud/M365-Admin-Handbook/blob/main/docs/index.md
